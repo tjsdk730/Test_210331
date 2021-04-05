@@ -1,5 +1,7 @@
 #include<stdio.h>
 void main() {
-	printf("Hello world");
+	printf("hello world");
+	printf("hello world");
 	fgetc(stdin);
+	
 }
